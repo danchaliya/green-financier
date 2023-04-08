@@ -1,3 +1,2 @@
 # green-financier 
-
-#ICESPICE=MOMMY
+GreenFinancier 
