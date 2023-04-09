@@ -23,27 +23,47 @@ GreenFinancier
 - Technologies: `nginx`
 
 ### In-depth
+<!-- Github -->
 <details>
 	<summary>Github</summary>
+
 - Github Projects
+
 - Github Issues
+
 - Github Code (Source Code)
+
 - Github CODEOWNERS
+
 </details>
+
+<!-- Twilio -->
 <details>
 	<summary>Twilio</summary>
+
 - Send SMS
+
 - Send SMS with Multimedia
+
 </details>
+
+<!-- MongoDB -->
 <details>
 	<summary>MongoDB Atlas</summary>
 - DB
+
 </details>
+
+<!-- Domain.com -->
 <details>
 	<summary>Domain.com</summary>
+
 - Our dope domain: https://green-financier.tech . Check it out!
+
 - Custom Nameservers to DigitalOcean
 </details>
+
+<!-- DigitalOcean -->
 <details>
 	<summary>DigitalOcean</summary>
 - Droplet
@@ -58,6 +78,10 @@ GreenFinancier
 
 
 ## :card_file_box: Directory Explanation
+```txt
+
+```
+
 
 ## :blue_book: Technical Details
 - Need a `.env` file in `/src` with the following fields:
